@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/blob/main/Android%20Codes/ic_launcher-playstore.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/blob/main/Android%20Codes/ic_launcher-playstore.png" alt="Security Lock System" width="200"></a>
   <br>
   Markdownify
   <br>
