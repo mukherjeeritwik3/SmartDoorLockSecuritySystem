@@ -12,8 +12,9 @@
 
 
 
-
-![screenshot](https://raw.githubusercontent.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/main/media/image23.jpeg)
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/main/media/image23.jpeg" width="600">
+</h1>
 
 ## Overview
 The purpose of this project is to build a superior door lock security system mechanicsm with the help of IOT and cloud integrating with mobile application giving us the power to the user for various home security  features at the palm of their hand.
@@ -47,12 +48,12 @@ simple project where a secure password will act as a door unlocking system.
 ## Software Used
 
 * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="10">
-* Java
-* Linux
-* Google Firebase
+* Java <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="10">
+* Linux <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width="10">
+* Google Firebase <img src="https://th.bing.com/th/id/R.c521e7e67222276a6860665a46813cc6?rik=AoUIOAvVTiB1cQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&ehk=YpYeUgKU5BtUZmTIpsZiQ5pFGAOc5w0Xm5klm2orTIg%3d&risl=&pid=ImgRaw&r=0" width="10">
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> Some additional packages which has been used are mentioned in the project report pdf kindly refer to the [Guide](https://github.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/blob/main/projectReport.pdf)
 
 
 ## HardWare Used
