@@ -15,6 +15,24 @@
 
 ![screenshot](https://raw.githubusercontent.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/main/media/image23.jpeg)
 
+## Overview
+The purpose of this project is to build a superior door lock security system mechanicsm with the help of IOT and cloud integrating with mobile application giving us the power to the user for various home security  features at the palm of their hand.
+Smart digital lock security system is designed using RASPBERRY PI 3B+ where once the
+correct code or password is entered, the door is opened and the concerned person is allowed
+access to the secured area. Smart digital lock security system using RASPBERRY PI 3B+ is a
+simple project where a secure password will act as a door unlocking system.
+
+### Working
+
+* User has to interact with our system using mobile app.
+* Images will be taken on any object detection.
+* Images can be accessed from cloud using mobile application.
+* AC appliances can be switched from the mobile App.
+* For better clarity of images a small LED will glow up during darker atmosphere.
+
+
+
+
 ## Key Features
 
 * Accessing from Anywhere
@@ -26,74 +44,43 @@
 * Downloading Photos Into our mobile to from Cloud data storage
 * Resetting CLoud storage Option in our mobile app
 
-## How To Use
+## Software Used
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
+* Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="10">
+* Java
+* Linux
+* Google Firebase
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
-## Download
+## HardWare Used
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+* Raspberry pi 3B+
+* HC-SR04 Ultrasonic sensor
+* Piezoelectric Buzzer
+* A Web Camera
+* LDR Module
 
-## Emailware
+## Block Diagram
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/main/media/image5.jpeg" alt="BlockDiagram" width="600" align="center">
+</h1>
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+This block Diagram specifies how the whole IOT application works with our physical device and mobile application with the help of cloud realtime database based on google cloud. To Know More Kindly Refer to the [ProjectPDF](https://github.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/blob/main/projectReport.pdf) in the current Directory
 
 ## Credits
 
-This software uses the following open source packages:
+These references helps me to build this project:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [RaspberrypiORG](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+- [Introduction to python](https://w3schools.com/python/python_intro.asp)
+- [IRJET-V6I2225](https://www.irjet.net/archives/V6/i2/IRJET-V6I2225.pdf)
+- [Firebase Docs](https://firebase.google.com/docs)
+- [Firebase python API](https://pypi.org/project/python-firebase/)
+- [Android Studio](https://developer.android.com/studio)
+- [Android Java Docs](https://developer.android.com/docs/)
 
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
-
-## License
-
-MIT
-
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+## [Know More](https://github.com/mukherjeeritwik3/SmartDoorLockSecuritySystem/blob/main/projectReport.pdf)
 
